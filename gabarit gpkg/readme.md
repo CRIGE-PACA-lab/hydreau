@@ -8,3 +8,5 @@ Le geopackage contient le projet **demonstrateur_projet_hydreau.qgz** permettant
 Des formulaires ont été pensées de manière à pouvoir les remplir en fonction des listes de valeurs pensées et des données injectées par les gestionnaires.
 
 à l'usage, et en accord avec le futur GT régional Hydr'eau, la table des vocables contenant les listes de valeurs pourra être changée/améliorée/complétée.
+
+### -> Le geopackage a été généré sur un Qgis 3.40
