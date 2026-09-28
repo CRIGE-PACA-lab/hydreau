@@ -9,7 +9,7 @@ Les détails du projet Hydr'eau et les différents phasages sont accessibles via
 Vous trouverez sur cette page les livrables opérationnels de la phase 2 du projet à savoir :
 - le MCD
 - le dictionnaire de données
-- la nomenclature et les fichiers de styles proposés
-- les fichiers geopackages d'exemple
+- la nomenclature/vocable
+- les fichiers d'implémentation SIG d'exemple
 
 Ces livrables seront le point de départ du futur groupe de travail régional autour du projet Hydr'eau
