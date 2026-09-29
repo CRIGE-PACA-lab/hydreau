@@ -76,4 +76,9 @@ code_class|lib_classification|code_type|lib_type|code_vocable|lib_vocable
 3|Station de pompage|31|Type de station de pompage|3101|Secondaire (surpresseur)
 3|Station de pompage|31|Type de station de pompage|3102|Principale
 3|Station de pompage|31|Type de station de pompage|3199|Autre
-
+4|Station de mesure|41|Type de mesure|4101|Compteur
+4|Station de mesure|41|Type de mesure|4102|Capteur de niveau
+4|Station de mesure|41|Type de mesure|4103|Sonde
+4|Station de mesure|41|Type de mesure|4104|Échelle linimétrique
+4|Station de mesure|41|Type de mesure|4105|Débitmètre
+4|Station de mesure|41|Type de mesure|4199|Autre
