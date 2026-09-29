@@ -13,7 +13,7 @@ Le code_vocable se veut unique et est concaténé de manière à pouvoir remonte
 0|Reseau|01|Matériau du tronçon|0104|Busé Béton
 0|Reseau|01|Matériau du tronçon|0105|PVC
 0|Reseau|01|Matériau du tronçon|0106|Polyéthylène (PE)
-0|Reseau|01|Matériau du tronçon|0107|Métallique
+0|Reseau|01|Matériau du tronçon|0107|Fonte
 0|Reseau|01|Matériau du tronçon|0199|Autre
 0|Reseau|02|Nature de tronçon|0201|Gravitaire
 0|Reseau|02|Nature de tronçon|0202|Sous Pression
